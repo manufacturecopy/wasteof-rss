@@ -3,9 +3,9 @@
 ## setup
 
 use your favorite package manager to install the dependencies.
-### npm:
+#### npm:
 `npm i`
-### yarn:
+#### yarn:
 `yarn`
 
 copy `.env.example` to `.env` and add your bot username & password. we'll get the token next.
