@@ -11,16 +11,15 @@ use your favorite package manager to install the dependencies.
 copy `.env.example` to `.env` and add your bot username & password. we'll get the token next.
 
 ### getting the token
-there's probably a way to do this within the main script, but i made a secondary one. run:
-`node token.js`
-and it should return a token. copy this token into .env.
+there's probably a way to do this within the main script, but i made a secondary one. run `node token.js` and it should return a token. copy this token into .env.
 
-after the setup, simply run `yarn run start`or `npm run start` to make a post. i recommend setting up a cron job for a certain time, do **not** use pm2. i did not configure it for that.
+after the setup, simply run `yarn run start` or `npm run start` to make a post. i recommend setting up a cron job/crontab for a certain time, do **not** use something like pm2. i did not configure it to post like that.
 
 anyways there's probably a better way to do this but i'm too stupid and half of this code is from stack overflow. i'll be honest.
-this is licensed under the MIT license.
 
-## MIT License
+god i hope my comments were helpful, this code sucks
+
+## License
 ```MIT License
 
 Copyright (c) 2023 manufacturecopy
@@ -42,7 +41,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.```
-
-
-
-god i hope my comments were helpful, this code sucks
