@@ -1,5 +1,5 @@
-# wasteof.money rss feed bot
-i guess i should probably mention this is made in node.js
+# wasteof-rss
+A bot for the social platform [wasteof.money](https://wasteof.money) that posts the latest entry in an RSS feed.
 ## setup
 
 use your favorite package manager to install the dependencies.
@@ -47,6 +47,8 @@ SOFTWARE.
 thank you [wuilly](https://wasteof.money/wuilly) for the incredible [wasteof.money api documentation](https://github.com/wulliy/wasteof-docs)
 
 thank you [imadeanaccount](https://wasteof.money/imadeanaccount) for inspiring me to make my bot open source after [you made yours](https://github.com/imadeanaccount1/onionbot)
+
+thank you to the people at [HNRSS](https://hnrss.github.io) for offering an easy way to grab Hacker News posts as RSS for the original version of this code, [@hackernews](https://wasteof.money/@hackernews)
 
 thank you to the [axios](https://axios-http.com), [dotenv](https://www.dotenv.org), and [rss-parser](https://github.com/rbren/rss-parser) libraries. without them, this bot would not exist.
 
