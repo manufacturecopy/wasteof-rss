@@ -1,5 +1,5 @@
 # wasteof.money rss feed bot
-
+i guess i should probably mention this is made in node.js
 ## setup
 
 use your favorite package manager to install the dependencies.
