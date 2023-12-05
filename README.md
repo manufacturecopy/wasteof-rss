@@ -45,6 +45,9 @@ SOFTWARE.
 
 ## some credits
 thank you [wuilly](https://wasteof.money/wuilly) for the incredible [wasteof.money api documentation](https://github.com/wulliy/wasteof-docs)
+
 thank you [imadeanaccount](https://wasteof.money/imadeanaccount) for inspiring me to make my bot open source after [you made yours](https://github.com/imadeanaccount1/onionbot)
+
 thank you to the [axios](https://axios-http.com), [dotenv](https://www.dotenv.org), and [rss-parser](https://github.com/rbren/rss-parser) libraries. without them, this bot would not exist.
+
 and of course, thank you [jeffalo](https://jeffalo.net) for making the amazing [wasteof.money](https://wasteof.money).
