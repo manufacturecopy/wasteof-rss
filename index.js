@@ -9,7 +9,7 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 // replace this with your rss feed
-const feedUrl = 'https://hnrss.org/frontpage'; 
+const feedUrl = 'https://news.ycombinator.com/rss'; 
 
 parser.parseURL(feedUrl)
   .then((feed) => {
